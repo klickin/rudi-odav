@@ -6,7 +6,7 @@ let port = 3000
 let numbers = {
 }
 
-// Resourcen
+// Resource für Nummer
 server.get('/number', function (req, res) {
 
     // Abgefragte ID auslesen
